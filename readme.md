@@ -1,6 +1,6 @@
-My slides
----------
+My slides and posters
+---------------------
 
-Created in Inkscape. PDF'ed using Jessyink.
+Created in Inkscape. Slides PDF'ed using Jessyink.
 
 See also: [My Speaker Deck](https://speakerdeck.com/dellsystem)
