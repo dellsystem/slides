@@ -1,9 +1,10 @@
 My slides and posters
 =====================
 
-Created in Inkscape. Slides PDF'ed using Jessyink.
+Created in Inkscape. Slides PDF'ed using
+[InkscapeSlide](https://github.com/abourget/inkscapeslide).
 
-See also: [My Speaker Deck](https://speakerdeck.com/dellsystem)
+[View them on Speaker Deck](https://speakerdeck.com/dellsystem)
 
 To do
 -----
