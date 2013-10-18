@@ -13,6 +13,10 @@ To do
 * Transcripts (consider it)
 * Describe each occasion in readme
 * Figure out licensing stuff
+* Add readmes to subfolders
+    * Occasion
+    * Link to speakerdeck
+    * etc
 
 Licensing
 ---------
