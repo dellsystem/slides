@@ -2,5 +2,5 @@
 
 Poster from [ICWSM 2012][site].
 
-[logo]: http://www.icwsm.org/2012/images/logo.png
+[logo]: http://i.imgur.com/C4b3Xn7.png
 [site]: http://www.icwsm.org/2012/
