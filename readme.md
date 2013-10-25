@@ -11,12 +11,7 @@ To do
 
 * COMP 396 and BIOL 112, if converting into a PDF is possible
 * Transcripts (consider it)
-* Describe each occasion in readme
 * Figure out licensing stuff
-* Add readmes to subfolders
-    * Occasion
-    * Link to speakerdeck
-    * etc
 
 Licensing
 ---------
