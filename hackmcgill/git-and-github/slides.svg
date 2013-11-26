@@ -8664,10 +8664,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="304.06968"
-     inkscape:cy="-1692.0172"
+     inkscape:cx="747.82452"
+     inkscape:cy="199.34118"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="g4356"
      showgrid="false"
      inkscape:window-width="1855"
      inkscape:window-height="1056"
@@ -8682,7 +8682,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -8983,7 +8983,7 @@
          id="text11394"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
-           id="tspan11396"></tspan></text>
+           id="tspan11396" /></text>
     </g>
   </g>
   <g
@@ -9174,7 +9174,7 @@
          id="flowPara9184">- Wendy Liu</flowPara><flowPara
          id="flowPara4712">- 4th year Math &amp; CS </flowPara><flowPara
          id="flowPara4604">- 2.5 years experience with Git</flowPara><flowPara
-         id="flowPara9186">- 72-day Github commit streak</flowPara><flowPara
+         id="flowPara9186">- 73-day Github commit streak</flowPara><flowPara
          id="flowPara9196">- dellsystem on Twitter, Github</flowPara></flowRoot>  </g>
   <g
      style="display:none"
@@ -17740,7 +17740,7 @@
          sodipodi:role="line"
          id="tspan9395"
          x="754.28571"
-         y="666.57141"></tspan></text>
+         y="666.57141" /></text>
   </g>
   <g
      inkscape:label="patch"
@@ -17798,7 +17798,7 @@
          id="tspan9429"
          sodipodi:role="line"
          x="754.28571"
-         y="666.57141"></tspan></text>
+         y="666.57141" /></text>
   </g>
   <g
      style="display:none"
@@ -17858,7 +17858,7 @@
          y="666.57141"
          x="754.28571"
          sodipodi:role="line"
-         id="tspan9468"></tspan></text>
+         id="tspan9468" /></text>
   </g>
   <g
      inkscape:label="colours"
@@ -17914,7 +17914,7 @@
          id="tspan9512"
          sodipodi:role="line"
          x="754.28571"
-         y="666.57141"></tspan></text>
+         y="666.57141" /></text>
   </g>
   <g
      style="display:none"
@@ -17972,7 +17972,7 @@
          y="666.57141"
          x="754.28571"
          sodipodi:role="line"
-         id="tspan9547"></tspan></text>
+         id="tspan9547" /></text>
   </g>
   <g
      inkscape:label="good-commit-messages"
@@ -18042,7 +18042,7 @@
          id="tspan9581"
          sodipodi:role="line"
          x="754.28571"
-         y="666.57141"></tspan></text>
+         y="666.57141" /></text>
   </g>
   <g
      style="display:none"
@@ -18100,7 +18100,7 @@
          y="666.57141"
          x="754.28571"
          sodipodi:role="line"
-         id="tspan9641"></tspan></text>
+         id="tspan9641" /></text>
   </g>
   <g
      inkscape:label="ignoring"
@@ -18160,7 +18160,7 @@
          id="tspan9714"
          sodipodi:role="line"
          x="754.28571"
-         y="666.57141"></tspan></text>
+         y="666.57141" /></text>
   </g>
   <g
      style="display:none"
@@ -18216,7 +18216,7 @@
          y="666.57141"
          x="754.28571"
          sodipodi:role="line"
-         id="tspan9762"></tspan></text>
+         id="tspan9762" /></text>
   </g>
   <g
      inkscape:label="aliases"
@@ -18332,7 +18332,7 @@
          id="tspan9797"
          sodipodi:role="line"
          x="754.28571"
-         y="666.57141"></tspan></text>
+         y="666.57141" /></text>
   </g>
   <g
      style="display:none"
@@ -18396,7 +18396,7 @@
          y="666.57141"
          x="754.28571"
          sodipodi:role="line"
-         id="tspan9843"></tspan></text>
+         id="tspan9843" /></text>
   </g>
   <g
      inkscape:label="sensitive-data"
@@ -18452,7 +18452,7 @@
          id="tspan9898"
          sodipodi:role="line"
          x="754.28571"
-         y="666.57141"></tspan></text>
+         y="666.57141" /></text>
   </g>
   <g
      style="display:none"
@@ -18510,7 +18510,7 @@
          y="666.57141"
          x="754.28571"
          sodipodi:role="line"
-         id="tspan9942"></tspan></text>
+         id="tspan9942" /></text>
   </g>
   <g
      inkscape:label="view-configuration"
@@ -18566,7 +18566,7 @@
          id="tspan9980"
          sodipodi:role="line"
          x="754.28571"
-         y="666.57141"></tspan></text>
+         y="666.57141" /></text>
   </g>
   <g
      style="display:none"
@@ -18626,7 +18626,7 @@
          y="666.57141"
          x="754.28571"
          sodipodi:role="line"
-         id="tspan10012"></tspan></text>
+         id="tspan10012" /></text>
     <text
        xml:space="preserve"
        style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -18638,7 +18638,7 @@
          sodipodi:role="line"
          id="tspan10016"
          x="710"
-         y="356.57144"></tspan></text>
+         y="356.57144" /></text>
   </g>
   <g
      inkscape:label="branch-tracking"
@@ -18696,7 +18696,7 @@
          id="tspan10054"
          sodipodi:role="line"
          x="754.28571"
-         y="666.57141"></tspan></text>
+         y="666.57141" /></text>
     <text
        transform="translate(0,284.36217)"
        sodipodi:linespacing="125%"
@@ -18708,7 +18708,7 @@
          id="tspan10058"
          sodipodi:role="line"
          x="710"
-         y="356.57144"></tspan></text>
+         y="356.57144" /></text>
   </g>
   <g
      style="display:none"
@@ -18768,7 +18768,7 @@
          y="666.57141"
          x="754.28571"
          sodipodi:role="line"
-         id="tspan10105"></tspan></text>
+         id="tspan10105" /></text>
     <text
        xml:space="preserve"
        style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -18780,7 +18780,7 @@
          y="356.57144"
          x="710"
          sodipodi:role="line"
-         id="tspan10109"></tspan></text>
+         id="tspan10109" /></text>
   </g>
   <g
      inkscape:label="fixing-mistakes"
@@ -18840,7 +18840,7 @@
          id="tspan10153"
          sodipodi:role="line"
          x="754.28571"
-         y="666.57141"></tspan></text>
+         y="666.57141" /></text>
     <text
        transform="translate(0,284.36217)"
        sodipodi:linespacing="125%"
@@ -18852,7 +18852,7 @@
          id="tspan10157"
          sodipodi:role="line"
          x="710"
-         y="356.57144"></tspan></text>
+         y="356.57144" /></text>
   </g>
   <g
      style="display:none"
@@ -18910,7 +18910,7 @@
          y="666.57141"
          x="754.28571"
          sodipodi:role="line"
-         id="tspan10200"></tspan></text>
+         id="tspan10200" /></text>
     <text
        xml:space="preserve"
        style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -18922,7 +18922,7 @@
          y="356.57144"
          x="710"
          sodipodi:role="line"
-         id="tspan10204"></tspan></text>
+         id="tspan10204" /></text>
   </g>
   <g
      style="display:none"
@@ -19009,7 +19009,7 @@
          id="tspan10280"
          sodipodi:role="line"
          x="754.28571"
-         y="666.57141"></tspan></text>
+         y="666.57141" /></text>
     <text
        transform="translate(0,284.36217)"
        sodipodi:linespacing="125%"
@@ -19021,7 +19021,7 @@
          id="tspan10284"
          sodipodi:role="line"
          x="710"
-         y="356.57144"></tspan></text>
+         y="356.57144" /></text>
   </g>
   <g
      style="display:none"
@@ -19079,7 +19079,7 @@
          y="666.57141"
          x="754.28571"
          sodipodi:role="line"
-         id="tspan10316"></tspan></text>
+         id="tspan10316" /></text>
     <text
        xml:space="preserve"
        style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -19091,7 +19091,7 @@
          y="356.57144"
          x="710"
          sodipodi:role="line"
-         id="tspan10320"></tspan></text>
+         id="tspan10320" /></text>
   </g>
   <g
      inkscape:label="browser"
@@ -19151,7 +19151,7 @@
          id="tspan10354"
          sodipodi:role="line"
          x="754.28571"
-         y="666.57141"></tspan></text>
+         y="666.57141" /></text>
     <text
        transform="translate(0,284.36217)"
        sodipodi:linespacing="125%"
@@ -19163,7 +19163,7 @@
          id="tspan10358"
          sodipodi:role="line"
          x="710"
-         y="356.57144"></tspan></text>
+         y="356.57144" /></text>
   </g>
   <g
      style="display:none"
@@ -19219,7 +19219,7 @@
          y="666.57141"
          x="754.28571"
          sodipodi:role="line"
-         id="tspan10398"></tspan></text>
+         id="tspan10398" /></text>
     <text
        xml:space="preserve"
        style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -19231,7 +19231,7 @@
          y="356.57144"
          x="710"
          sodipodi:role="line"
-         id="tspan10402"></tspan></text>
+         id="tspan10402" /></text>
   </g>
   <g
      inkscape:label="file-rendering"
@@ -19287,7 +19287,7 @@
          id="tspan10437"
          sodipodi:role="line"
          x="754.28571"
-         y="666.57141"></tspan></text>
+         y="666.57141" /></text>
     <text
        transform="translate(0,284.36217)"
        sodipodi:linespacing="125%"
@@ -19299,7 +19299,7 @@
          id="tspan10441"
          sodipodi:role="line"
          x="710"
-         y="356.57144"></tspan></text>
+         y="356.57144" /></text>
   </g>
   <g
      style="display:none"
@@ -19355,7 +19355,7 @@
          y="666.57141"
          x="754.28571"
          sodipodi:role="line"
-         id="tspan10472"></tspan></text>
+         id="tspan10472" /></text>
     <text
        xml:space="preserve"
        style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -19367,39 +19367,12 @@
          y="356.57144"
          x="710"
          sodipodi:role="line"
-         id="tspan10476"></tspan></text>
+         id="tspan10476" /></text>
     <image
        y="696.57642"
        x="832.64288"
        id="image10537"
-       xlink:href="data:image/png;base64,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
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE0AAAATCAYAAADVjYA3AAAABHNCSVQICAgIfAhkiAAABatJREFU WIXVmG1sU2UUx39t79ay7raduNmCYbgAslFeZVlGdFOWDYORpX7wLcoMH0iIgYUQFD+AyidkOOP4 IIlhYoiJcYHyoonyshFEFh3ogsAGQXEOiGSLXdutW7v1OX4YXFpaTFzExpOc9D7/e55z/vnf89zn PjWJCC0tLS5gARmwcNXPmSg7Uetc9cDWAVNjY+MC4ATgzAQLZ10gE2UnakHgSa2jo+MAGRIMIFh1 LFOlJ2JO4ICmlCrMJAulJJPlJ2KFmkhmSSuV0fITMk1lmLX8D0UzK6W4271eL5s3b07B/85bWlpQ SlFbW0ttbW3K/aqqKlavXp06V+S++5HFff9qvrSdFovFGB0d5Z90YXl5OW63m2g0CpAyNxqNEo1G U/D/otHnve/gwcez/7V8ZhEhnXs8Hvbu3Yvf72fHjh0UFBRQUFCA3+83Yqqrq1mzZg0iQnt7e0oO n8+H3+/H7/ezfPlygNRa6o4v0ivY5T3Owceu0FrWzy7vcXLNTkQJL3rW0VrWT2tZP1tm7E7BGmbv Q5TQMHufgb3oWYco4dyGkBG/y3s8ZY47u5DP5p8x8Nayfp7JX5nELdHTLk8RQdd16urqKCsro6en h+rqasbGxgCMuFgsltQ9t+eKCEVFRfh8PiNHb28vIpJmeWL46KDg1gp5/tMKvA0OAoEAL7jXoQSu Xv8Vb4ODJTunsUivxG2dToW+gg2H6vA2OHi/dQt2i4uZtvk8/fE8vA0OTl1q5fbmrARiA4qxiLBk 5zSW7JzGTNt8ZtrnU+FYwXdX2vA2OPjg5Nt8c8nPF52fJHFL9HuK1tXVRSQSIT8/n7Nnz2K1WpPE UUpht9sNIe4WzWq10tXVxc2bN40c6URLfopw8Y+fCBf28kC5xtFf/UyKOsk1O3luxmuc3xji9Nrf cWS7iA8rNny5kifmPcWRted4fM5SgpEAGw6v5M0VW9m35iR5eXnILdVECQgcveLHMncQy9xBQiMD TIo5Of1LGzWzfJzfGGJ9xbt09J/AWmD6Z52mlKK4uBiPx4NSitLSUkKhEKFQCICioiKUUlRWVhpi Jf4CBINBiouLmTJlipEjUfA7juEiUOJeyBTHIygFNY/6CA4PUOmqxY6Lkm06y3bNvZUHAg/18m5b PTUfzeOV6fV4cqZzLvtb1h+q4+2v1vFGyQfGO1MpEMCcY0LMIOZb+ChErEF6A1cp2aZTsk3n4I1P k3jd7Wk3AhHh2rVrNDU1kZubS3d3N9u3bycej7N//36ampoA6O7uTttpAJcvX2bPnj00NzcbscFg MHUjSPhOVCIEhwPsXtiKnuXiYt9P7LnQiFPP42VPPRc3hbk+/Bu9A1cREZrL25itjx+Z23vaCAz+ yfcr7hzLGk9tMfKrWysgXc3cbCdzHlrIxU3hca7hTurP+QiPDaRoA2CqqalJ+bqNxWIMDQ0Rj8cR ETRNw+VyYTKZCIfDjIyMAKBpGpqmoes6fX195OfnE4lEAMjJySESiTA0NJQSm2ihTT8Y1wuzK3n1 4XpWff4sEgeL3YReoiFxIXwhjooKZqsJAH2OhcFLceJD4/SznCbsszQGOkaNfJOmWbBNNRNoHyWv PIuR6+MPzDZ1vM2CP46RU2Th4LJONh9cy+mrbQAce/08711Zz5nQibSipe00TdNwOpOPo7ffVXa7 HbvdnnRPKcXkyZNRSmGz2QzMZrMZ48TY5HHCMxMBMzgWa3cgxjF9gSWFZ643GRMEZ5mWhCk1jikl ZHtMSTVv5/z8TDPNLx025nx9yc/pnlY0pymlJoBp6dKlGT1Hhd86a1yPBYWRG4rc4lSB7qdFbyiG f48b46zJZuwz780h48eoxPJm3UTOo5b//Dya5TaT5Tbfk9fdpsXj8Q+B+vtL6972P/yX40OTiFBa WvoO8GQmGAyv7M5E2YnaifNrw+/8BXlFbuogJL93AAAAAElFTkSuQmCC "
        height="19"
        width="77" />
   </g>
